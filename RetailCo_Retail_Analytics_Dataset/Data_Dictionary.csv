@@ -1,0 +1,68 @@
+File,Column,Description
+Calendar.csv,Date,Calendar date (YYYY-MM-DD)
+Calendar.csv,Year,Year
+Calendar.csv,Quarter,Q1–Q4
+Calendar.csv,Month,Month number
+Calendar.csv,MonthName,Month name
+Calendar.csv,Week,Week number (00–53)
+Calendar.csv,Day,Day of month
+Calendar.csv,DayName,Weekday name
+Calendar.csv,IsWeekend,True if Sat/Sun
+Stores.csv,StoreID,Unique store id
+Stores.csv,StoreName,Store display name
+Stores.csv,Region,Geographical region
+Stores.csv,City,City
+Stores.csv,Format,Supermarket/Convenience/Hypermarket
+Stores.csv,OpenDate,Store opening date
+Stores.csv,AreaSQFT,Approx floor area
+Products.csv,ProductID,Unique product id
+Products.csv,ProductName,Brand + item + variant
+Products.csv,Category,Top-level category
+Products.csv,SubCategory,Subcategory
+Products.csv,Brand,Brand
+Products.csv,UnitPrice,List price
+Products.csv,UnitCost,Estimated cost
+Products.csv,PackSizeMLorG,Pack size
+Customers.csv,CustomerID,Unique customer id
+Customers.csv,Gender,F/M/Other
+Customers.csv,AgeGroup,Age band
+Customers.csv,LoyaltyTier,Guest/Bronze/Silver/Gold/Platinum
+Customers.csv,Region,Region
+Customers.csv,City,City
+Customers.csv,SignupDate,Signup date
+Promotions.csv,PromoID,Unique promotion id
+Promotions.csv,ProductID,Promoted product
+Promotions.csv,StoreID,Specific store id; blank=all stores
+Promotions.csv,StartDate,Promo start
+Promotions.csv,EndDate,Promo end
+Promotions.csv,PromoType,Price Cut/BOGO/Bundle/Flash Sale/Coupon
+Promotions.csv,DiscountPct,Percent (0–0.6)
+Promotions.csv,Channel,In-Store/Online/Both
+Promotions.csv,StoreScope,All or Single
+Sales.csv,TransactionID,Unique transaction id
+Sales.csv,TransactionDate,Sale date
+Sales.csv,StoreID,Store of sale
+Sales.csv,ProductID,Product
+Sales.csv,CustomerID,Customer (blank if anonymous)
+Sales.csv,Channel,In-Store/Online
+Sales.csv,Quantity,Units sold
+Sales.csv,UnitPrice,Unit price at sale time
+Sales.csv,GrossSales,Quantity * UnitPrice
+Sales.csv,DiscountAmount,Simulated discount amount
+Sales.csv,NetSales,Gross - Discount
+Sales.csv,COGS,Quantity * UnitCost (approx)
+Sales.csv,GrossMargin,NetSales - COGS
+Sales.csv,PaymentMethod,Cash/Card/UPI/Wallet
+Returns.csv,ReturnID,Unique return id
+Returns.csv,TransactionID,Linked sale
+Returns.csv,ReturnDate,Date of return
+Returns.csv,StoreID,Store id
+Returns.csv,ProductID,Product id
+Returns.csv,ReturnQty,Units returned
+Returns.csv,ReturnAmount,Refund amount
+Returns.csv,Reason,Return reason
+InventorySnapshots.csv,SnapshotDate,First of month
+InventorySnapshots.csv,StoreID,Store id
+InventorySnapshots.csv,ProductID,Product id
+InventorySnapshots.csv,StockOnHand,Units in stock
+InventorySnapshots.csv,ReorderPoint,Replenishment threshold

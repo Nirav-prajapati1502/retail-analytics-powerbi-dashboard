@@ -1,0 +1,181 @@
+ProductID,ProductName,Category,SubCategory,Brand,UnitPrice,UnitCost,PackSizeMLorG
+P0001,QuickBite Rice 5kg v1,Grocery,Staples,QuickBite,7.44,4.87,1073
+P0002,GoodMart Rice 5kg v2,Grocery,Staples,GoodMart,10.57,5.9,430
+P0003,GoodMart Rice 5kg v3,Grocery,Oils,GoodMart,7.23,4.86,201
+P0004,MaxValue Rice 5kg v4,Grocery,Staples,MaxValue,11.84,8.36,1385
+P0005,QuickBite Rice 5kg v5,Grocery,Pulses,QuickBite,10.45,6.19,1660
+P0006,GoodMart Rice 5kg v6,Grocery,Staples,GoodMart,5.43,3.94,628
+P0007,MaxValue Wheat Flour 5kg v1,Grocery,Pulses,MaxValue,2.45,1.35,343
+P0008,FreshCo Wheat Flour 5kg v2,Grocery,Pulses,FreshCo,8.37,6.69,1268
+P0009,DailyLife Wheat Flour 5kg v3,Grocery,Pulses,DailyLife,8.97,5.89,1651
+P0010,QuickBite Wheat Flour 5kg v4,Grocery,Oils,QuickBite,2.12,1.32,1384
+P0011,FreshCo Wheat Flour 5kg v5,Grocery,Staples,FreshCo,4.42,2.44,249
+P0012,QuickBite Wheat Flour 5kg v6,Grocery,Pulses,QuickBite,4.43,2.56,847
+P0013,UrbanHome Sugar 1kg v1,Grocery,Pulses,UrbanHome,3.88,3.02,1862
+P0014,MaxValue Sugar 1kg v2,Grocery,Oils,MaxValue,4.77,2.77,1291
+P0015,DailyLife Sugar 1kg v3,Grocery,Pulses,DailyLife,8.73,4.96,1292
+P0016,MaxValue Sugar 1kg v4,Grocery,Oils,MaxValue,3.81,2.59,278
+P0017,UrbanHome Sugar 1kg v5,Grocery,Staples,UrbanHome,9.37,5.53,580
+P0018,PrimeChoice Sugar 1kg v6,Grocery,Oils,PrimeChoice,5.78,3.48,1943
+P0019,MaxValue Cooking Oil 1L v1,Grocery,Staples,MaxValue,6.76,5.05,244
+P0020,UrbanHome Cooking Oil 1L v2,Grocery,Oils,UrbanHome,4.76,3.22,321
+P0021,MaxValue Cooking Oil 1L v3,Grocery,Pulses,MaxValue,2.02,1.2,1869
+P0022,MaxValue Cooking Oil 1L v4,Grocery,Oils,MaxValue,7.12,4.35,1292
+P0023,MaxValue Cooking Oil 1L v5,Grocery,Pulses,MaxValue,4.88,3.5,1312
+P0024,QuickBite Cooking Oil 1L v6,Grocery,Staples,QuickBite,11.73,9.25,805
+P0025,DailyLife Pulses 1kg v1,Grocery,Staples,DailyLife,8.09,4.75,1414
+P0026,GoodMart Pulses 1kg v2,Grocery,Oils,GoodMart,8.37,6.2,875
+P0027,UrbanHome Pulses 1kg v3,Grocery,Staples,UrbanHome,4.46,3.12,1096
+P0028,UrbanHome Pulses 1kg v4,Grocery,Oils,UrbanHome,5.9,4.22,1363
+P0029,UrbanHome Pulses 1kg v5,Grocery,Staples,UrbanHome,8.85,6.67,1021
+P0030,QuickBite Pulses 1kg v6,Grocery,Pulses,QuickBite,9.85,5.78,634
+P0031,PrimeChoice Cola 1.25L v1,Beverages,Water,PrimeChoice,4.37,2.75,919
+P0032,GoodMart Cola 1.25L v2,Beverages,Water,GoodMart,2.81,2.14,303
+P0033,FreshCo Cola 1.25L v3,Beverages,Carbonated,FreshCo,1.85,1.06,1450
+P0034,PrimeChoice Cola 1.25L v4,Beverages,Carbonated,PrimeChoice,3.17,2.34,329
+P0035,QuickBite Cola 1.25L v5,Beverages,Juices,QuickBite,3.04,2.09,923
+P0036,PrimeChoice Cola 1.25L v6,Beverages,Water,PrimeChoice,3.3,1.84,1986
+P0037,MaxValue Orange Juice 1L v1,Beverages,Carbonated,MaxValue,5.08,3.59,1384
+P0038,MaxValue Orange Juice 1L v2,Beverages,Water,MaxValue,7.9,4.57,1931
+P0039,DailyLife Orange Juice 1L v3,Beverages,Carbonated,DailyLife,2.19,1.4,1838
+P0040,DailyLife Orange Juice 1L v4,Beverages,Juices,DailyLife,3.29,2.54,1578
+P0041,UrbanHome Orange Juice 1L v5,Beverages,Water,UrbanHome,2.26,1.59,365
+P0042,GoodMart Orange Juice 1L v6,Beverages,Water,GoodMart,3.84,2.27,378
+P0043,UrbanHome Mineral Water 1L v1,Beverages,Juices,UrbanHome,2.42,1.89,1952
+P0044,PrimeChoice Mineral Water 1L v2,Beverages,Water,PrimeChoice,7.73,5.28,1159
+P0045,GoodMart Mineral Water 1L v3,Beverages,Water,GoodMart,5.82,3.59,335
+P0046,GoodMart Mineral Water 1L v4,Beverages,Water,GoodMart,1.74,1.02,1296
+P0047,QuickBite Mineral Water 1L v5,Beverages,Carbonated,QuickBite,1.33,1.05,1756
+P0048,UrbanHome Mineral Water 1L v6,Beverages,Juices,UrbanHome,7.74,6.12,1592
+P0049,GoodMart Energy Drink 500ml v1,Beverages,Water,GoodMart,7.57,5.05,284
+P0050,UrbanHome Energy Drink 500ml v2,Beverages,Juices,UrbanHome,1.33,0.86,1899
+P0051,MaxValue Energy Drink 500ml v3,Beverages,Carbonated,MaxValue,6.76,4.75,1397
+P0052,FreshCo Energy Drink 500ml v4,Beverages,Carbonated,FreshCo,6.25,3.61,1600
+P0053,PrimeChoice Energy Drink 500ml v5,Beverages,Juices,PrimeChoice,1.95,1.3,293
+P0054,DailyLife Energy Drink 500ml v6,Beverages,Water,DailyLife,2.18,1.42,290
+P0055,DailyLife Iced Tea 1L v1,Beverages,Carbonated,DailyLife,6.43,3.85,1996
+P0056,MaxValue Iced Tea 1L v2,Beverages,Water,MaxValue,3.6,2.46,996
+P0057,UrbanHome Iced Tea 1L v3,Beverages,Carbonated,UrbanHome,7.25,4.94,1117
+P0058,PrimeChoice Iced Tea 1L v4,Beverages,Energy,PrimeChoice,6.24,4.09,1570
+P0059,QuickBite Iced Tea 1L v5,Beverages,Carbonated,QuickBite,5.72,3.38,1209
+P0060,DailyLife Iced Tea 1L v6,Beverages,Water,DailyLife,4.91,2.75,1600
+P0061,QuickBite Shampoo 500ml v1,Personal Care,Oral,QuickBite,1.77,1.34,232
+P0062,MaxValue Shampoo 500ml v2,Personal Care,Bath & Body,MaxValue,4.82,2.99,1774
+P0063,FreshCo Shampoo 500ml v3,Personal Care,Hair,FreshCo,4.59,3.43,1998
+P0064,DailyLife Shampoo 500ml v4,Personal Care,Bath & Body,DailyLife,6.83,4.16,1104
+P0065,QuickBite Shampoo 500ml v5,Personal Care,Hair,QuickBite,3.35,2.51,1564
+P0066,UrbanHome Shampoo 500ml v6,Personal Care,Hair,UrbanHome,7.75,4.76,1065
+P0067,FreshCo Soap 100g v1,Personal Care,Oral,FreshCo,3.91,3.1,754
+P0068,MaxValue Soap 100g v2,Personal Care,Fragrance,MaxValue,6.08,3.45,886
+P0069,PrimeChoice Soap 100g v3,Personal Care,Oral,PrimeChoice,2.93,1.94,828
+P0070,DailyLife Soap 100g v4,Personal Care,Oral,DailyLife,1.04,0.7,742
+P0071,GoodMart Soap 100g v5,Personal Care,Hair,GoodMart,4.3,3.41,961
+P0072,FreshCo Soap 100g v6,Personal Care,Fragrance,FreshCo,6.88,4.4,1018
+P0073,GoodMart Toothpaste 120g v1,Personal Care,Fragrance,GoodMart,4.37,3.26,1740
+P0074,DailyLife Toothpaste 120g v2,Personal Care,Oral,DailyLife,5.99,3.71,1794
+P0075,PrimeChoice Toothpaste 120g v3,Personal Care,Bath & Body,PrimeChoice,6.38,3.51,1286
+P0076,FreshCo Toothpaste 120g v4,Personal Care,Bath & Body,FreshCo,6.65,4.46,1981
+P0077,UrbanHome Toothpaste 120g v5,Personal Care,Hair,UrbanHome,1.61,1.14,680
+P0078,MaxValue Toothpaste 120g v6,Personal Care,Fragrance,MaxValue,4.53,2.53,590
+P0079,FreshCo Face Wash 150ml v1,Personal Care,Fragrance,FreshCo,6.62,5.21,1443
+P0080,FreshCo Face Wash 150ml v2,Personal Care,Bath & Body,FreshCo,6.18,4.79,1022
+P0081,PrimeChoice Face Wash 150ml v3,Personal Care,Bath & Body,PrimeChoice,5.6,3.23,1885
+P0082,UrbanHome Face Wash 150ml v4,Personal Care,Hair,UrbanHome,6.85,5.46,1012
+P0083,DailyLife Face Wash 150ml v5,Personal Care,Bath & Body,DailyLife,7.73,4.35,985
+P0084,GoodMart Face Wash 150ml v6,Personal Care,Hair,GoodMart,7.16,4.76,269
+P0085,MaxValue Deodorant 150ml v1,Personal Care,Hair,MaxValue,5.24,3.34,1149
+P0086,FreshCo Deodorant 150ml v2,Personal Care,Hair,FreshCo,6.41,3.9,276
+P0087,UrbanHome Deodorant 150ml v3,Personal Care,Hair,UrbanHome,3.6,2.18,529
+P0088,MaxValue Deodorant 150ml v4,Personal Care,Bath & Body,MaxValue,5.02,3.94,1276
+P0089,GoodMart Deodorant 150ml v5,Personal Care,Hair,GoodMart,4.42,3.48,523
+P0090,PrimeChoice Deodorant 150ml v6,Personal Care,Fragrance,PrimeChoice,7.59,4.96,1557
+P0091,FreshCo Detergent 2kg v1,Household,Laundry,FreshCo,7.03,5.09,1253
+P0092,QuickBite Detergent 2kg v2,Household,Cleaning,QuickBite,7.4,4.38,1331
+P0093,GoodMart Detergent 2kg v3,Household,Cleaning,GoodMart,7.9,5.89,867
+P0094,UrbanHome Detergent 2kg v4,Household,Laundry,UrbanHome,3.28,2.05,993
+P0095,QuickBite Detergent 2kg v5,Household,Cleaning,QuickBite,3.74,2.2,1887
+P0096,GoodMart Detergent 2kg v6,Household,Paper,GoodMart,5.91,4.64,1935
+P0097,UrbanHome Dishwash Liquid 750ml v1,Household,Cleaning,UrbanHome,1.68,0.97,945
+P0098,PrimeChoice Dishwash Liquid 750ml v2,Household,Laundry,PrimeChoice,4.68,3.67,1485
+P0099,MaxValue Dishwash Liquid 750ml v3,Household,Laundry,MaxValue,3.58,2.39,1484
+P0100,PrimeChoice Dishwash Liquid 750ml v4,Household,Laundry,PrimeChoice,5.43,3.24,691
+P0101,QuickBite Dishwash Liquid 750ml v5,Household,Laundry,QuickBite,1.79,1.25,1073
+P0102,FreshCo Dishwash Liquid 750ml v6,Household,Cleaning,FreshCo,3.56,2.06,1255
+P0103,UrbanHome Floor Cleaner 1L v1,Household,Cleaning,UrbanHome,7.75,5.2,403
+P0104,MaxValue Floor Cleaner 1L v2,Household,Cleaning,MaxValue,1.11,0.85,1305
+P0105,QuickBite Floor Cleaner 1L v3,Household,Paper,QuickBite,3.96,2.73,1344
+P0106,DailyLife Floor Cleaner 1L v4,Household,Paper,DailyLife,3.5,2.76,1647
+P0107,UrbanHome Floor Cleaner 1L v5,Household,Laundry,UrbanHome,1.29,0.95,1974
+P0108,DailyLife Floor Cleaner 1L v6,Household,Laundry,DailyLife,5.25,3.31,1240
+P0109,DailyLife Tissue Box v1,Household,Laundry,DailyLife,3.82,2.42,859
+P0110,GoodMart Tissue Box v2,Household,Laundry,GoodMart,5.68,4.44,1748
+P0111,QuickBite Tissue Box v3,Household,Cleaning,QuickBite,4.81,3.85,666
+P0112,GoodMart Tissue Box v4,Household,Paper,GoodMart,6.77,3.94,1213
+P0113,UrbanHome Tissue Box v5,Household,Cleaning,UrbanHome,4.02,2.77,1912
+P0114,MaxValue Tissue Box v6,Household,Cleaning,MaxValue,7.25,4.12,635
+P0115,DailyLife Garbage Bags 30pc v1,Household,Laundry,DailyLife,3.78,2.96,841
+P0116,MaxValue Garbage Bags 30pc v2,Household,Paper,MaxValue,1.11,0.65,1439
+P0117,FreshCo Garbage Bags 30pc v3,Household,Laundry,FreshCo,4.48,2.77,280
+P0118,QuickBite Garbage Bags 30pc v4,Household,Laundry,QuickBite,1.87,1.16,552
+P0119,GoodMart Garbage Bags 30pc v5,Household,Cleaning,GoodMart,6.03,4.32,1005
+P0120,MaxValue Garbage Bags 30pc v6,Household,Laundry,MaxValue,1.72,1.23,1345
+P0121,PrimeChoice Bread 400g v1,Bakery,Bread,PrimeChoice,7.83,4.53,1042
+P0122,GoodMart Bread 400g v2,Bakery,Bread,GoodMart,3.68,2.67,359
+P0123,DailyLife Bread 400g v3,Bakery,Cakes,DailyLife,7.57,4.3,862
+P0124,FreshCo Bread 400g v4,Bakery,Cakes,FreshCo,7.17,4.18,1581
+P0125,QuickBite Bread 400g v5,Bakery,Cookies,QuickBite,6.01,4.56,584
+P0126,FreshCo Bread 400g v6,Bakery,Bread,FreshCo,3.27,1.83,450
+P0127,FreshCo Brown Bread 400g v1,Bakery,Bread,FreshCo,2.36,1.48,1994
+P0128,MaxValue Brown Bread 400g v2,Bakery,Cookies,MaxValue,1.84,1.21,1470
+P0129,UrbanHome Brown Bread 400g v3,Bakery,Bread,UrbanHome,4.05,3.03,1881
+P0130,MaxValue Brown Bread 400g v4,Bakery,Cookies,MaxValue,4.61,3.5,1369
+P0131,QuickBite Brown Bread 400g v5,Bakery,Cookies,QuickBite,3.23,2.45,1382
+P0132,DailyLife Brown Bread 400g v6,Bakery,Cakes,DailyLife,4.38,2.69,841
+P0133,UrbanHome Cake 500g v1,Bakery,Bread,UrbanHome,7.37,4.05,833
+P0134,PrimeChoice Cake 500g v2,Bakery,Cookies,PrimeChoice,5.14,3.5,1704
+P0135,FreshCo Cake 500g v3,Bakery,Cookies,FreshCo,5.42,3.08,1160
+P0136,QuickBite Cake 500g v4,Bakery,Cakes,QuickBite,5.45,3.31,338
+P0137,GoodMart Cake 500g v5,Bakery,Cookies,GoodMart,2.09,1.49,1025
+P0138,GoodMart Cake 500g v6,Bakery,Cakes,GoodMart,1.34,0.98,421
+P0139,MaxValue Muffins 6pc v1,Bakery,Cookies,MaxValue,2.82,1.83,1152
+P0140,FreshCo Muffins 6pc v2,Bakery,Cakes,FreshCo,1.74,1.39,1814
+P0141,DailyLife Muffins 6pc v3,Bakery,Cookies,DailyLife,2.78,1.77,504
+P0142,PrimeChoice Muffins 6pc v4,Bakery,Bread,PrimeChoice,2.14,1.47,1478
+P0143,PrimeChoice Muffins 6pc v5,Bakery,Bread,PrimeChoice,1,0.8,1516
+P0144,UrbanHome Muffins 6pc v6,Bakery,Cookies,UrbanHome,2.1,1.34,1204
+P0145,PrimeChoice Cookies 250g v1,Bakery,Bread,PrimeChoice,2.73,2.11,1684
+P0146,QuickBite Cookies 250g v2,Bakery,Cookies,QuickBite,1.9,1.24,738
+P0147,QuickBite Cookies 250g v3,Bakery,Cakes,QuickBite,5.41,3.15,1946
+P0148,DailyLife Cookies 250g v4,Bakery,Cookies,DailyLife,3.33,2.18,1701
+P0149,MaxValue Cookies 250g v5,Bakery,Cakes,MaxValue,5.59,4.16,1420
+P0150,DailyLife Cookies 250g v6,Bakery,Bread,DailyLife,3.73,2.19,1066
+P0151,UrbanHome Headphones v1,Electronics Accessories,Lighting,UrbanHome,55.81,42.16,709
+P0152,DailyLife Headphones v2,Electronics Accessories,Audio,DailyLife,50.51,33.74,1446
+P0153,MaxValue Headphones v3,Electronics Accessories,Cables,MaxValue,21.64,16.52,591
+P0154,FreshCo Headphones v4,Electronics Accessories,Lighting,FreshCo,56.12,40.68,1975
+P0155,MaxValue Headphones v5,Electronics Accessories,Cables,MaxValue,26.94,15.22,1830
+P0156,UrbanHome Headphones v6,Electronics Accessories,Cables,UrbanHome,23.24,14.66,408
+P0157,QuickBite USB Cable v1,Electronics Accessories,Cables,QuickBite,29.4,17.22,566
+P0158,QuickBite USB Cable v2,Electronics Accessories,Audio,QuickBite,15.39,9.95,1500
+P0159,UrbanHome USB Cable v3,Electronics Accessories,Power,UrbanHome,59.48,40.69,783
+P0160,MaxValue USB Cable v4,Electronics Accessories,Power,MaxValue,32.57,20.43,1304
+P0161,MaxValue USB Cable v5,Electronics Accessories,Audio,MaxValue,22,16.13,844
+P0162,MaxValue USB Cable v6,Electronics Accessories,Lighting,MaxValue,42.91,25.85,531
+P0163,MaxValue Power Bank 10000mAh v1,Electronics Accessories,Audio,MaxValue,36.11,26.05,274
+P0164,FreshCo Power Bank 10000mAh v2,Electronics Accessories,Cables,FreshCo,59.99,37.83,269
+P0165,MaxValue Power Bank 10000mAh v3,Electronics Accessories,Audio,MaxValue,46.17,36.27,431
+P0166,FreshCo Power Bank 10000mAh v4,Electronics Accessories,Lighting,FreshCo,45.88,34.36,764
+P0167,PrimeChoice Power Bank 10000mAh v5,Electronics Accessories,Cables,PrimeChoice,54.3,34.29,960
+P0168,PrimeChoice Power Bank 10000mAh v6,Electronics Accessories,Cables,PrimeChoice,44.06,32.87,1759
+P0169,PrimeChoice Bluetooth Speaker v1,Electronics Accessories,Power,PrimeChoice,41.83,23.75,1762
+P0170,MaxValue Bluetooth Speaker v2,Electronics Accessories,Cables,MaxValue,13.34,7.9,799
+P0171,MaxValue Bluetooth Speaker v3,Electronics Accessories,Power,MaxValue,17.89,10.04,999
+P0172,FreshCo Bluetooth Speaker v4,Electronics Accessories,Lighting,FreshCo,38.48,23.24,998
+P0173,PrimeChoice Bluetooth Speaker v5,Electronics Accessories,Cables,PrimeChoice,53.66,36.11,1876
+P0174,MaxValue Bluetooth Speaker v6,Electronics Accessories,Lighting,MaxValue,28.98,17.8,216
+P0175,QuickBite LED Bulb 9W v1,Electronics Accessories,Cables,QuickBite,54.26,36.23,764
+P0176,GoodMart LED Bulb 9W v2,Electronics Accessories,Lighting,GoodMart,46.51,34.66,1246
+P0177,MaxValue LED Bulb 9W v3,Electronics Accessories,Lighting,MaxValue,19.4,13.69,1809
+P0178,DailyLife LED Bulb 9W v4,Electronics Accessories,Power,DailyLife,45.86,32.2,1710
+P0179,UrbanHome LED Bulb 9W v5,Electronics Accessories,Power,UrbanHome,38.56,29.71,1960
+P0180,DailyLife LED Bulb 9W v6,Electronics Accessories,Lighting,DailyLife,48.07,27.46,1360
